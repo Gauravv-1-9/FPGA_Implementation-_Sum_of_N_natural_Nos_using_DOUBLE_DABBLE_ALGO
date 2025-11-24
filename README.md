@@ -57,7 +57,7 @@ src/                         # All synthesizable RTL sources
 
 ---> sevenSegrefresh.v        # Top-level: clock division + display refresh
 
-sim/                         # Testbenches and waveform files
+sim/                         # Testbench
 
 ---> tb_sevenSegrefresh.v     # Top-level simulation testbench
 
